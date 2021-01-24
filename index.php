@@ -1,5 +1,6 @@
 <?php include 'header.html'; ?>
 
+
     <article>
         <h2>Conteudo principal</h2>
     </article>
