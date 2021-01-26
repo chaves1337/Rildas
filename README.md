@@ -1,9 +1,14 @@
-# rildas
-Projeto de  portal de noticias
+# Rildas - News portal
+***
 
-Iniciando esse projeto para criar uma solução para facilitar os meios de comunicações  local na região dos lagos - RJ.
-Será utilizado principalmente  as seguintes tecnologias: HTML5, CSS3, BOOTSTRAP,  JavaScript, PHP.
+### Objective
+This project, has how objective create a news portal scalable, having as main public the small city with problems in their internal communication with their residents.
 
-Em breve estarei melhorando o arquivo README.md
+### Technologies used
 
-Estou aceitando sugestões e ajuda para finalizar este projeto.
+1. HTML5
+1. CSS3
+1. BOOTSTRAP3
+1. JavaScript
+1. PHP
+1. MySQL
