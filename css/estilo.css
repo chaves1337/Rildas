@@ -6,8 +6,12 @@ body, ul, li, p{
     font-family: Arial;
 }
 
-a{
+.header a{
     text-decoration: none;
+    color: white;
+}
+
+.header label{
     color: white;
 }
 
@@ -37,6 +41,13 @@ a{
 
 .menu a{
     color: black;
+    text-decoration: none;
+}
+
+.menu a:hover{
+    background: black;
+    color: white;
+    text-shadow: thistle 3px;
 }
 
 .login{

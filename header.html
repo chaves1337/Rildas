@@ -8,11 +8,14 @@
 
     <body>
         <header class="header">       
-            <img src="/img/logo.png" >
-            <form action="valida_login.php" method="POST" class="login">
-                <input type="text" name="user" class="user">
-                <input type="password" name="password" class="password">
-                <input type="button" value="Login">
+            <a href=""><h2>Logo</h2></a>
+            <form action="valida_login.php" method="POST" autocomplete="on">
+                <label for="user">Usuário:</label><br>
+                <input type="text" name="user" class="user"><br>
+                <label for="password">Senha:</label><br>
+                <input type="password" name="password" class="password"><br>
+                <input type="submit" value="Login">
+                <input type="submit" value="Cadastrar-se">
             </form>
          </header>
 
