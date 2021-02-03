@@ -54,3 +54,25 @@ body, ul, li, p{
     display: flex;
     flex-direction: column;
 }
+
+.password{
+    background-image: url(img/cadeado.png);
+    padding-left: 20px;
+    width: 120px;
+}
+
+.user{
+    width: 120px;
+    padding-left: 20px;
+}
+
+.username{
+    background: url(/img/cadeado.png);
+}
+
+/* Estilização da pagina de cadastro */
+
+.info_login{
+    display: inline;
+    border: none;
+}
